@@ -1,0 +1,9 @@
+# Proprietary game files (DO NOT COMMIT)
+*.apk
+assets/
+libs.armhf/*.so
+
+# Runtime generated files
+gamedata/
+log.txt
+*.o
